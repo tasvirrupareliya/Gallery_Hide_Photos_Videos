@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gallery Lock</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="privacytext">If you want to hide some photos or videos and to prevent unauthorized access of personal photos set security lock.</string>
+
+    <string name="rate_msg">Please take a moment to rate it and share your valuable feedback with us.</string>
+    <string name="error_internet">Please Check Your Internet …</string>
+    <string name="terms" translatable="false"> Our {terms}Terms and Conditions{/terms} and {privacy}Privacy Policy{/privacy} have been recently updated. To continue using our app, please review and agree to our updated terms.</string>
+    <string name="share_app_message">Download Now </string>
+</resources>

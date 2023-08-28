@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:state_activated="true">
+        <bitmap android:src="@drawable/ic_background" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/ic_background" android:tint="@color/black"/>
+    </item>
+</selector>

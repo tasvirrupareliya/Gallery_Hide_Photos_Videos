@@ -1,0 +1,2 @@
+rootProject.name = "Gallery Hide Photos Videos"
+include ':app'
