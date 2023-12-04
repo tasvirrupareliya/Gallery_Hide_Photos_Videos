@@ -16,5 +16,4 @@ Organize your media effortlessly with Gallery Hide's intuitive folder creation f
 Fast and Powerful Search:
 Navigate your media library easily using Gallery Hide's advanced search functionality. Smart classification and quick search options based on time, location, file type, date taken, name, size, and last modified time ensure you can locate your files in seconds.
 
-Experience the Security: Gallery Hide on Play Store
-Download Gallery Hide now and take control of your privacy with an app designed to be your reliable and secure photo and video locker. Your memories, your control.
+Google Play Store Link : https://play.google.com/store/apps/details?id=com.gallery.photos.lock.galleryhidephotosvideos
