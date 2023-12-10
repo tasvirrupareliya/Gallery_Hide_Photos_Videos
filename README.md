@@ -1,4 +1,4 @@
-# Gallery_Hide_Photos_Videos
+# Gallery Hide Photos Videos
 
 🚀 Gallery Hide: Secure Photo and Video Locker
 Welcome to Gallery Hide, the ultimate solution for safeguarding private photos and videos with state-of-the-art security features. This project has been meticulously engineered to provide users with a secure and seamless experience in managing sensitive media files.
